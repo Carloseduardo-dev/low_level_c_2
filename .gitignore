@@ -1,0 +1,8 @@
+/*.exe
+/*.o
+/*.obj
+/threads/*.exe
+/threads/*.o
+/threads/*.obj
+*.log
+__pycache__/
